@@ -1,5 +1,4 @@
 // Arduino UNO Morse Blink
-// Mesaj: "MELISAYI COK SEVIYORUM"
 // Mors alfabesinde LED yanıp sönerek mesajı verir
 
 const int ledPin = 13;
